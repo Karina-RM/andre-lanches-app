@@ -1,24 +1,33 @@
 {
   "expo": {
-    "name": "andre-lanches-app",
+    "name": "André Lanches",
     "slug": "andre-lanches-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": false,
+      "bundleIdentifier": "com.karinarm.andrelanches"
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#E50021",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
-      }
+      },
+      "package": "com.karinarm.andrelanches"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "backgroundColor": "#FFE18C",
+    "primaryColor": "#E50021",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E50021"
     }
   }
 }
