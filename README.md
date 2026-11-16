@@ -74,8 +74,13 @@ docs/
 
 Expo SDK 58 · React Native 0.88 · React 19.3 · react-native-safe-area-context · @expo/vector-icons · Jest (jest-expo) · Testing Library
 
-## Autoria
+## Equipe
 
-Karina Ribeiro Modesto — [github.com/Karina-RM](https://github.com/Karina-RM)
+| Integrante | GitHub |
+|---|---|
+| Isabela Damacena Fernandes de Sousa Quinta | [@IsinhaDx](https://github.com/IsinhaDx) |
+| João Augusto Evangelista Neto | [@joaoaugustoneto](https://github.com/joaoaugustoneto) |
+| Karina Ribeiro Modesto | [@Karina-RM](https://github.com/Karina-RM) |
+| Natan Forte Sauer | [@natansauer](https://github.com/natansauer) |
 
 Desenvolvido com apoio do Claude (Anthropic) na geração e revisão do código, nos testes e na documentação.

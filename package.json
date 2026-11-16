@@ -29,5 +29,24 @@
   },
   "jest": {
     "preset": "jest-expo"
-  }
+  },
+  "description": "App mobile da lanchonete André Lanches (React Native + Expo), atividade de Programação para Dispositivos Móveis do IESB.",
+  "contributors": [
+    {
+      "name": "Isabela Damacena Fernandes de Sousa Quinta",
+      "url": "https://github.com/IsinhaDx"
+    },
+    {
+      "name": "João Augusto Evangelista Neto",
+      "url": "https://github.com/joaoaugustoneto"
+    },
+    {
+      "name": "Karina Ribeiro Modesto",
+      "url": "https://github.com/Karina-RM"
+    },
+    {
+      "name": "Natan Forte Sauer",
+      "url": "https://github.com/natansauer"
+    }
+  ]
 }
