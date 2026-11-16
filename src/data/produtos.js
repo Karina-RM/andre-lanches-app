@@ -25,7 +25,7 @@ export const PRODUTOS = [
     id: 'x-burguer',
     nome: 'X-Burguer',
     descricao: 'O clássico: hambúrguer, queijo derretido e molho especial.',
-    precoCentavos: 150,
+    precoCentavos: 1150,
     categoria: 'Lanches',
     imagem: require('../../assets/images/cheese.jpg'),
   },

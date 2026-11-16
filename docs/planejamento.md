@@ -19,7 +19,7 @@
 | X-Salada | `xsalada.jpg` | R$ 8,00 |
 | Cheddar | `cheddar.jpg` | R$ 17,00 |
 | Bata Frita | `batata.jpg` | R$ 7,00 |
-| X-Burguer | `cheese.jpg` | R$ 1,50 |
+| X-Burguer | `cheese.jpg` | R$ 1,50 no site; R$ 11,50 no app |
 | Big Tower | `bigtower.jpg` | R$ 20,50 |
 | X-Frango | `fragonrequeijao.jpg` | R$ 12,90 |
 | Nuggets (c/ 8) | `nuggets.jpg` | R$ 6,50 |
@@ -34,7 +34,7 @@
 - Imagens sem `alt` (sem acessibilidade).
 - Layout com larguras fixas (700px, `margin-left` negativo): não cabe numa tela de celular.
 - Telefone de exemplo `(11) 1111-1111`, que não disca para ninguém.
-- X-Burguer a R$ 1,50 destoa dos demais preços; mantido como está no site até confirmação.
+- X-Burguer a R$ 1,50 destoa dos demais preços (provável erro de digitação); corrigido para R$ 11,50 por decisão da equipe.
 - Os links "Sobre Nós" e "Contato" apontam para páginas que não vieram no material.
 
 ## 2. Adaptação para o smartphone (fluxo vertical)
